@@ -1,58 +1,58 @@
-"","project","operational","city_AWTP","inland_coastal_40mi","state_region_provence","country","detail_PR_type","awtp_contains_RO","max_treatment_per_facility_RO","wwtp_effluent","advanced_treatment_detail_RO","upstream_RO","concentrate_treatment","RO_concentrate_management"
-"1","TG Halli Reservoir Reuse Project","N","Bangalore","Inland","Karnataka","India","reservoir","N",NA,NA,NA,NA,NA,NA
-"2","Leon Municipal ERA Water Regeneration Station","N","Leon","Inland","Guanajuato","Mexico","reservoir","N",NA,NA,NA,NA,NA,NA
-"3","The City of Windhoek in Namibia","Y","Windhoek","Inland","Khomas","Namibia","treated water","N",NA,NA,NA,NA,NA,NA
-"4","Atlantis Water Resource Management Scheme","Y","Atlantis","Coastal","Western Cape","South Africa","groundwater","N",NA,NA,NA,NA,NA,NA
-"5","Maselspoort Water Reuse Project","N","Bloemfontein","Inland","Free State","South Africa","treated water","N",NA,NA,NA,NA,NA,NA
-"6","Cape Flats Managed Aquifer Recharge","N","Cape Town","Coastal","Western Cape","South Africa","groundwater","N",NA,NA,NA,NA,NA,NA
-"7","Langford Recycling Scheme","Y","Langford","Coastal","Essex","United Kingdom","reservoir","N",NA,NA,NA,NA,NA,NA
-"8","Airway Heights","Y","Airway Heights","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"9","Loudoun Water","Y","Ashburn","Coastal","VA","USA","raw water","N",NA,NA,NA,NA,NA,NA
-"10","Prairie Water Project Aurora","Y","Aurora","Inland","CO","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"11","Bartlesville Reuse","N","Bartlesville","Inland","OK","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"12","Gwinnett County","Y","Buford","Inland","GA","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"13","Castle Rock Water","Y","Castle Rock","Inland","CO","USA","raw water","N",NA,NA,NA,NA,NA,NA
-"14","Upper Occoquan Service Authority","Y","Centreville","Coastal","VA","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"15","Chino Basin Groundwater Recharge Project Inland Empire Utility Agency","Y","Chino","Coastal","CA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"16","Hueco Bolson Recharge Project El Paso Water Utilities","Y","El Paso","Inland","TX","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"17","City of Ephrata","Y","Ephrata","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"18","Tarrant Regional Water District","Y","Fort Worth","Inland","TX","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"19","LOTT Cleanwater Alliance Hawks Prairie Ponds","Y","Lacey","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"20","Clayton County Water Authority","Y","Morrow","Inland","GA","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"21","Grant County Quincy Ciity","Y","Quincy City","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"22","Grant County Royal City","Y","Royal City","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"23","East Valley Water District","Y","San Bernardino","Inland","CA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"24","Hampton Roads Sanitation District","Y","Suffolk","Coastal","VA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"25","City of Tenino Class A Reclaimed Water Facility","Y","Tenino","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"26","Wichita Falls Resource Recovery Facility Wichita Falls 2","Y","Wichita Falls","Inland","TX","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"27","North Texas Municial Water District East Fork Water Reuse Project","Y","Wylie","Inland","TX","USA","reservoir","N",NA,NA,NA,NA,NA,NA
-"28","Yelm Cochrane Memorial Park","Y","Yelm","Inland","WA","USA","groundwater","N",NA,NA,NA,NA,NA,NA
-"29","Palm Beach County RECAP","N","Palm Beach","Coastal","FL","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","MF, RO, UV/AOP (unspecified)","MF","none reported","deep well injection"
-"30","Dominguez Gap Barrier Terminal Island, City of Los Angeles long Beach 3-4","Y","Los Angeles","Coastal","CA","USA","groundwater","Y","tertiary, advanced, groundwater augmentation","tertiary","MF, RO, UV/HOCl","MF","none reported","deep well injection; ocean discharge"
-"31","Perth Groundwater Replenishment Scheme","Y","Perth","Coastal","Perth","Australia","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","UF, RO, UV","UF","neutralization tank (unspecified)","ocean discharge"
-"32","Aquaduin formerly Intermunicipal Water Company from the Veurne Region","Y","Koksijde","Coastal","West Flanders","Belgium","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","HOCl, UF, cartridge filtration, RO, UV/H2O2","UF, cartridge filtration","constructed wetland","ocean discharge"
-"33","NEWater","Y","Singapore","Coastal","NA","Singapore","reservoir","Y","secondary, advanced, reservoir augmentation","secondary","HOCl, MF, RO, cartridge filtration, UV, HOCl","MF","none reported","ocean discharge"
-"34","Beaufort West Municipality","Y","Beaufort West","Inland","Western Cape","South Africa","reservoir","Y","secondary, advanced, reservoir augmentation","secondary","HOCl, settling, coagulation, media filtration, UF, RO, UV/H2O2, HOCl","UF","maturation pond","unknown"
-"35","Ethekwini 3 Remix Water Demonstration Plant","N","Durban","Coastal","KwaZulu-Natal","South Africa","DPR (unspecified)","Y","secondary, advanced, DPR (unspecified)","secondary","MBR, RO","MBR","none reported","ocean discharge"
-"36","Barcelona Barcelona 2","Y","Barcelona","Coastal","Barcelona","Spain","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","filtration (unspecified), UV, UF, RO","UF","none reported","ocean discharge"
-"37","West Basin Recycling Plant Groundwater Replenishment and Seawater Barrier El Segundo 1 and 2","Y","El Segundo","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","MF, RO, UV/H2O2","MF","none reported","ocean discharge"
-"38","City of Abilene Hamby Water Reclamation Facility and Indirect Reuse Project","Y","Abilene","Inland","TX","USA","reservoir","Y","advanced, reservoir augmentation","raw","MBR, RO, ozone/BAF, HOCl","MBR","chlorination","surface water discharge"
-"39","Big Spring Colorado River Municipal Water District","Y","Big Spring","Inland","TX","USA","raw water","Y","tertiary, advanced, raw water augmentation","tertiary","MF, RO, UV/H2O2","MF","none reported","surface water discharge"
-"40","El Paso 2","N","El Paso","Inland","TX","USA","treated water","Y","secondary, advanced, treated water augmentation","secondary","membrane filtration (unspecified), RO, UV/AOP (unspecified), GAC, HOCl","membrane filtration (unspecified)","none reported","surface water discharge"
-"41","Monterey One Water","Y","Monterey","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","ozone, membrane filtration (unspecified), RO, UV/H2O2","membrane filtration (unspecified)","none reported","ocean discharge"
-"42","Arapahoe County Cottonwood","Y","Englewood","Inland","CO","USA","groundwater","Y","tertiary, riverbank filtration, groundwater augmentation, advanced","tertiary","RO, UV/H2O2, air stripping, HOCl","None","coagulation, MF, trickling filter","surface water discharge"
-"43","Pure Water Oceanside","Y","Oceanside","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","UF, RO, UV/HOCl","UF","none reported","ocean discharge"
-"44","City of Oxnard Advanced Water Treatment Facility","N","Oxnard","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","MF, RO, UV/H2O2","MF","none reported","ocean discharge"
-"45","Pure Water Soquel","N","https://www.soquelcreekwater.org/DocumentCenter/View/2074/Pure-Water-Soquel-Engineering-Report-PDF","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","ozone, MF, RO, UV/H2O2","MF","none reported","ocean discharge"
-"46","Orange County Groundwater Replenishment System","Y","Fountain Valley","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","MF, RO, UV/H2O2","MF","conventional wastewater treatment","sewer discharge"
-"47","Los Alamitos Barrier Water Replenishment Leo J Vander Lans Water Treatment Facility Long Beach 1 and 2","Y","Long Beach","Coastal","CA","USA","groundwater","Y","tertiary, advanced, groundwater augmentation","tertiary","MF, RO, UV/H2O2, HOCl","MF","conventional wastewater treatment","sewer discharge"
-"48","Montebello Forebay County Sanitation Districts of Los Angeles County Pico Rivera 1 and 2","Y","Pico Rivera","Coastal","CA","USA","groundwater","Y","tertiary, advanced, groundwater augmentation","tertiary","UF, RO, UV/HOCl","UF","conventional wastewater treatment","sewer discharge"
-"49","North City Pure Water Project","N","San Diego","Coastal","CA","USA","reservoir","Y","tertiary, advanced, reservoir augmentation","tertiary","ozone/BAF, UF, RO, UV/HOCl","UF","conventional wastewater treatment","sewer discharge"
-"50","Santa Monica","Y","Santa Monica","Coastal","CA","USA","groundwater","Y","secondary, advanced, groundwater augmentation","secondary","MBR, cartridge filtration, RO, UV/HOCl, HOCl","MBR, cartridge filtration","conventional wastewater treatment","sewer discharge"
-"51","Cave Creek Water Reclamation Plant Rehabilitation Project","N","Phoenix","Inland","AZ","USA","groundwater","Y","advanced, groundwater augmentation","raw","grit chamber, filtration (unspecified), MBR, RO, UV/AOP (unspecified)","MBR","conventional wastewater treatment","sewer discharge"
-"52","East County Advanced Water Purification Program","N","Santee","Coastal","CA","USA","reservoir","Y","secondary, advanced, reservoir augmentation","secondary","membrane filtration (unspecified), RO, UV/HOCl","membrane filtration (unspecified)","conventional wastewater treatment","sewer discharge"
-"53","Barcelona Barcelona 1","Y","Barcelona","Coastal","Barcelona","Spain","reservoir","Y","secondary, tertiary, reservoir augmentation, advanced","secondary","HOCl, coagulation, flocculation, media filtration, split: [ozone, GAC] or [UF, RO], recombine: HOCl","UF","none reported","surface water discharge"
-"54","Paranaque City NEW Water","Y","Parañaque City","Coastal","National Capital","Philippines","treated water","Y","secondary, advanced, treated water augmentation","secondary","media filtration, UF, RO, HOCl","UF","unknown","unknown"
-"55","Frasers Reuse Plant","Y","Ballito","Coastal","KwaZulu Natal","South Africa","treated water","Y","advanced, treated water augmentation","raw","aeration basin, settling, HOCl, media filtration, UF, RO, HOCl, UV, HOCl","UF","water recovery; maturation pond","unknown"
-"56","JEA H20 Purification Center","N","Jacksonville","Coastal","FL","USA","groundwater","Y","tertiary, advanced, groundwater augmentation","secondary","membrane filtration (unspecified), RO, UV/AOP (unspecified)","membrane filtration (unspecified)","unknown","unknown"
-"57","Scottsdale Water Campus","Y","Scottsdale","Inland","AZ","USA","groundwater","Y","tertiary, advanced, groundwater augmentation","tertiary","ozone, UF, RO, UV","UF","conventional wastewater treatment","sewer discharge"
+,project,operational,city_AWTP,inland_coastal_40mi,state_region_provence,country,detail_PR_type,awtp_contains_RO,max_treatment_per_facility_RO,wwtp_effluent,advanced_treatment_detail_RO,upstream_RO,concentrate_treatment,RO_concentrate_management
+1,TG Halli Reservoir Reuse Project,N,Bangalore,Inland,Karnataka,India,reservoir,N,NA,NA,NA,NA,NA,NA
+2,Leon Municipal ERA Water Regeneration Station,N,Leon,Inland,Guanajuato,Mexico,reservoir,N,NA,NA,NA,NA,NA,NA
+3,The City of Windhoek in Namibia,Y,Windhoek,Inland,Khomas,Namibia,treated water,N,NA,NA,NA,NA,NA,NA
+4,Atlantis Water Resource Management Scheme,Y,Atlantis,Coastal,Western Cape,South Africa,groundwater,N,NA,NA,NA,NA,NA,NA
+5,Maselspoort Water Reuse Project,N,Bloemfontein,Inland,Free State,South Africa,treated water,N,NA,NA,NA,NA,NA,NA
+6,Cape Flats Managed Aquifer Recharge,N,Cape Town,Coastal,Western Cape,South Africa,groundwater,N,NA,NA,NA,NA,NA,NA
+7,Langford Recycling Scheme,Y,Langford,Coastal,Essex,United Kingdom,reservoir,N,NA,NA,NA,NA,NA,NA
+8,Airway Heights,Y,Airway Heights,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+9,Loudoun Water,Y,Ashburn,Coastal,VA,USA,raw water,N,NA,NA,NA,NA,NA,NA
+10,Prairie Water Project Aurora,Y,Aurora,Inland,CO,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+11,Bartlesville Reuse,N,Bartlesville,Inland,OK,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+12,Gwinnett County,Y,Buford,Inland,GA,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+13,Castle Rock Water,Y,Castle Rock,Inland,CO,USA,raw water,N,NA,NA,NA,NA,NA,NA
+14,Upper Occoquan Service Authority,Y,Centreville,Coastal,VA,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+15,Chino Basin Groundwater Recharge Project Inland Empire Utility Agency,Y,Chino,Coastal,CA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+16,Hueco Bolson Recharge Project El Paso Water Utilities,Y,El Paso,Inland,TX,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+17,City of Ephrata,Y,Ephrata,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+18,Tarrant Regional Water District,Y,Fort Worth,Inland,TX,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+19,LOTT Cleanwater Alliance Hawks Prairie Ponds,Y,Lacey,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+20,Clayton County Water Authority,Y,Morrow,Inland,GA,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+21,Grant County Quincy Ciity,Y,Quincy City,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+22,Grant County Royal City,Y,Royal City,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+23,East Valley Water District,Y,San Bernardino,Inland,CA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+24,Hampton Roads Sanitation District,Y,Suffolk,Coastal,VA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+25,City of Tenino Class A Reclaimed Water Facility,Y,Tenino,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+26,Wichita Falls Resource Recovery Facility Wichita Falls 2,Y,Wichita Falls,Inland,TX,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+27,North Texas Municial Water District East Fork Water Reuse Project,Y,Wylie,Inland,TX,USA,reservoir,N,NA,NA,NA,NA,NA,NA
+28,Yelm Cochrane Memorial Park,Y,Yelm,Inland,WA,USA,groundwater,N,NA,NA,NA,NA,NA,NA
+29,Palm Beach County RECAP,N,Palm Beach,Coastal,FL,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MF, RO, UV/AOP (unspecified)",MF,none reported,deep well injection
+30,"Dominguez Gap Barrier Terminal Island, City of Los Angeles long Beach 3-4",Y,Los Angeles,Coastal,CA,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",tertiary,"MF, RO, UV/HOCl",MF,none reported,deep well injection; ocean discharge
+31,Perth Groundwater Replenishment Scheme,Y,Perth,Coastal,Perth,Australia,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"UF, RO, UV",UF,neutralization tank (unspecified),ocean discharge
+32,Aquaduin formerly Intermunicipal Water Company from the Veurne Region,Y,Koksijde,Coastal,West Flanders,Belgium,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"HOCl, UF, cartridge filtration, RO, UV/H2O2","UF, cartridge filtration",constructed wetland,ocean discharge
+33,NEWater,Y,Singapore,Coastal,NA,Singapore,reservoir,Y,"secondary, advanced, reservoir augmentation",secondary,"HOCl, MF, RO, cartridge filtration, UV, HOCl",MF,none reported,ocean discharge
+34,Beaufort West Municipality,Y,Beaufort West,Inland,Western Cape,South Africa,reservoir,Y,"secondary, advanced, reservoir augmentation",secondary,"HOCl, settling, coagulation, media filtration, UF, RO, UV/H2O2, HOCl",UF,maturation pond,unknown
+35,Ethekwini 3 Remix Water Demonstration Plant,N,Durban,Coastal,KwaZulu-Natal,South Africa,DPR (unspecified),Y,"secondary, advanced, DPR (unspecified)",secondary,"MBR, RO",MBR,none reported,ocean discharge
+36,Barcelona Barcelona 2,Y,Barcelona,Coastal,Barcelona,Spain,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"filtration (unspecified), UV, UF, RO",UF,none reported,ocean discharge
+37,West Basin Recycling Plant Groundwater Replenishment and Seawater Barrier El Segundo 1 and 2,Y,El Segundo,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MF, RO, UV/H2O2",MF,none reported,ocean discharge
+38,City of Abilene Hamby Water Reclamation Facility and Indirect Reuse Project,Y,Abilene,Inland,TX,USA,reservoir,Y,"advanced, reservoir augmentation",raw,"MBR, RO, ozone/BAF, HOCl",MBR,chlorination,surface water discharge
+39,Big Spring Colorado River Municipal Water District,Y,Big Spring,Inland,TX,USA,raw water,Y,"tertiary, advanced, raw water augmentation",tertiary,"MF, RO, UV/H2O2",MF,none reported,surface water discharge
+40,El Paso 2,N,El Paso,Inland,TX,USA,treated water,Y,"secondary, advanced, treated water augmentation",secondary,"membrane filtration (unspecified), RO, UV/AOP (unspecified), GAC, HOCl",membrane filtration (unspecified),none reported,surface water discharge
+41,Monterey One Water,Y,Monterey,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"ozone, membrane filtration (unspecified), RO, UV/H2O2",membrane filtration (unspecified),none reported,ocean discharge
+42,Arapahoe County Cottonwood,Y,Englewood,Inland,CO,USA,groundwater,Y,"tertiary, riverbank filtration, groundwater augmentation, advanced",tertiary,"RO, UV/H2O2, air stripping, HOCl",None,"coagulation, MF, trickling filter",surface water discharge
+43,Pure Water Oceanside,Y,Oceanside,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"UF, RO, UV/HOCl",UF,none reported,ocean discharge
+44,City of Oxnard Advanced Water Treatment Facility,N,Oxnard,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MF, RO, UV/H2O2",MF,none reported,ocean discharge
+45,Pure Water Soquel,N,Soquel,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"ozone, MF, RO, UV/H2O2",MF,none reported,ocean discharge
+46,Orange County Groundwater Replenishment System,Y,Fountain Valley,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MF, RO, UV/H2O2",MF,conventional wastewater treatment,sewer discharge
+47,Los Alamitos Barrier Water Replenishment Leo J Vander Lans Water Treatment Facility Long Beach 1 and 2,Y,Long Beach,Coastal,CA,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",tertiary,"MF, RO, UV/H2O2, HOCl",MF,conventional wastewater treatment,sewer discharge
+48,Montebello Forebay County Sanitation Districts of Los Angeles County Pico Rivera 1 and 2,Y,Pico Rivera,Coastal,CA,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",tertiary,"UF, RO, UV/HOCl",UF,conventional wastewater treatment,sewer discharge
+49,North City Pure Water Project,N,San Diego,Coastal,CA,USA,reservoir,Y,"tertiary, advanced, reservoir augmentation",tertiary,"ozone/BAF, UF, RO, UV/HOCl",UF,conventional wastewater treatment,sewer discharge
+50,Santa Monica,Y,Santa Monica,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MBR, cartridge filtration, RO, UV/HOCl, HOCl","MBR, cartridge filtration",conventional wastewater treatment,sewer discharge
+51,Cave Creek Water Reclamation Plant Rehabilitation Project,N,Phoenix,Inland,AZ,USA,groundwater,Y,"advanced, groundwater augmentation",raw,"grit chamber, filtration (unspecified), MBR, RO, UV/AOP (unspecified)",MBR,conventional wastewater treatment,sewer discharge
+52,East County Advanced Water Purification Program,N,Santee,Coastal,CA,USA,reservoir,Y,"secondary, advanced, reservoir augmentation",secondary,"membrane filtration (unspecified), RO, UV/HOCl",membrane filtration (unspecified),conventional wastewater treatment,sewer discharge
+53,Barcelona Barcelona 1,Y,Barcelona,Coastal,Barcelona,Spain,reservoir,Y,"secondary, tertiary, reservoir augmentation, advanced",secondary,"HOCl, coagulation, flocculation, media filtration, split: [ozone, GAC] or [UF, RO], recombine: HOCl",UF,none reported,surface water discharge
+54,Paranaque City NEW Water,Y,Parañaque City,Coastal,National Capital,Philippines,treated water,Y,"secondary, advanced, treated water augmentation",secondary,"media filtration, UF, RO, HOCl",UF,unknown,unknown
+55,Frasers Reuse Plant,Y,Ballito,Coastal,KwaZulu Natal,South Africa,treated water,Y,"advanced, treated water augmentation",raw,"aeration basin, settling, HOCl, media filtration, UF, RO, HOCl, UV, HOCl",UF,water recovery; maturation pond,unknown
+56,JEA H20 Purification Center,N,Jacksonville,Coastal,FL,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",secondary,"membrane filtration (unspecified), RO, UV/AOP (unspecified)",membrane filtration (unspecified),unknown,unknown
+57,Scottsdale Water Campus,Y,Scottsdale,Inland,AZ,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",tertiary,"ozone, UF, RO, UV",UF,conventional wastewater treatment,sewer discharge
