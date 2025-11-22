@@ -41,7 +41,6 @@
 <tr><td style="text-align:left">Scottsdale</td><td>AZ</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">El Segundo</td><td>CA</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Fountain Valley</td><td>CA</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
-<tr><td style="text-align:left">https://www.soquelcreekwater.org/DocumentCenter/View/2074/Pure-Water-Soquel-Engineering-Report-PDF</td><td>CA</td><td>USA</td><td>N</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Long Beach</td><td>CA</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Los Angeles</td><td>CA</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Monterey</td><td>CA</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
@@ -51,6 +50,7 @@
 <tr><td style="text-align:left">San Diego</td><td>CA</td><td>USA</td><td>N</td><td>reservoir</td><td>Y</td></tr>
 <tr><td style="text-align:left">Santa Monica</td><td>CA</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Santee</td><td>CA</td><td>USA</td><td>N</td><td>reservoir</td><td>Y</td></tr>
+<tr><td style="text-align:left">Soquel</td><td>CA</td><td>USA</td><td>N</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Englewood</td><td>CO</td><td>USA</td><td>Y</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Jacksonville</td><td>FL</td><td>USA</td><td>N</td><td>groundwater</td><td>Y</td></tr>
 <tr><td style="text-align:left">Palm Beach</td><td>FL</td><td>USA</td><td>N</td><td>groundwater</td><td>Y</td></tr>
