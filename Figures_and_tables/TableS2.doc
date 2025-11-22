@@ -2,21 +2,21 @@
 <table style="text-align:center"><tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">city_AWTP</td><td>state_region_provence</td><td>country</td><td>max_treatment_per_facility_RO</td><td>advanced_treatment_detail_RO</td></tr>
 <tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Palm Beach</td><td>FL</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>MF, RO, UV/AOP (unspecified)</td></tr>
 <tr><td style="text-align:left">Los Angeles</td><td>CA</td><td>USA</td><td>tertiary, advanced, groundwater augmentation</td><td>MF, RO, UV/HOCl</td></tr>
-<tr><td style="text-align:left">Perth</td><td>Perth</td><td>Australia</td><td>secondary, advanced, groundwater augmentation</td><td>UF, RO, UV</td></tr>
-<tr><td style="text-align:left">Koksijde</td><td>West Flanders</td><td>Belgium</td><td>secondary, advanced, groundwater augmentation</td><td>HOCl, UF, cartridge filtration, RO, UV/H2O2</td></tr>
-<tr><td style="text-align:left">Singapore</td><td></td><td>Singapore</td><td>secondary, advanced, reservoir augmentation</td><td>HOCl, MF, RO, cartridge filtration, UV, HOCl</td></tr>
-<tr><td style="text-align:left">Beaufort West</td><td>Western Cape</td><td>South Africa</td><td>secondary, advanced, reservoir augmentation</td><td>HOCl, settling, coagulation, media filtration, UF, RO, UV/H2O2, HOCl</td></tr>
+<tr><td style="text-align:left">Perth</td><td>Perth</td><td>Australia</td><td>secondary, advanced, groundwater augmentation</td><td>HOCl/NH4, UF, RO, UV</td></tr>
+<tr><td style="text-align:left">Koksijde</td><td>West Flanders</td><td>Belgium</td><td>secondary, advanced, groundwater augmentation</td><td>HOCl, UF, HOCl/NH4, cartridge filtration, RO, UV/H2O2</td></tr>
+<tr><td style="text-align:left">Singapore</td><td></td><td>Singapore</td><td>secondary, advanced, reservoir augmentation</td><td>HOCl/NH4, MF, RO, cartridge filtration, UV, HOCl/NH4</td></tr>
+<tr><td style="text-align:left">Beaufort West</td><td>Western Cape</td><td>South Africa</td><td>secondary, advanced, reservoir augmentation</td><td>HOCl, settling, HOCl, media filtration, UF, RO, UV/H2O2, HOCl</td></tr>
 <tr><td style="text-align:left">Durban</td><td>KwaZulu-Natal</td><td>South Africa</td><td>secondary, advanced, DPR (unspecified)</td><td>MBR, RO</td></tr>
 <tr><td style="text-align:left">Barcelona</td><td>Barcelona</td><td>Spain</td><td>secondary, advanced, groundwater augmentation</td><td>filtration (unspecified), UV, UF, RO</td></tr>
 <tr><td style="text-align:left">El Segundo</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>MF, RO, UV/H2O2</td></tr>
 <tr><td style="text-align:left">Abilene</td><td>TX</td><td>USA</td><td>advanced, reservoir augmentation</td><td>MBR, RO, ozone/BAF, HOCl</td></tr>
 <tr><td style="text-align:left">Big Spring</td><td>TX</td><td>USA</td><td>tertiary, advanced, raw water augmentation</td><td>MF, RO, UV/H2O2</td></tr>
 <tr><td style="text-align:left">El Paso</td><td>TX</td><td>USA</td><td>secondary, advanced, treated water augmentation</td><td>membrane filtration (unspecified), RO, UV/AOP (unspecified), GAC, HOCl</td></tr>
-<tr><td style="text-align:left">Monterey</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>ozone, membrane filtration (unspecified), RO, UV/H2O2</td></tr>
+<tr><td style="text-align:left">Monterey</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>ozone, membrane filtration (unspecified), RO, UV/H2O2, HOCl/NH4</td></tr>
 <tr><td style="text-align:left">Englewood</td><td>CO</td><td>USA</td><td>tertiary, riverbank filtration, groundwater augmentation, advanced</td><td>RO, UV/H2O2, air stripping, HOCl</td></tr>
 <tr><td style="text-align:left">Oceanside</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>UF, RO, UV/HOCl</td></tr>
 <tr><td style="text-align:left">Oxnard</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>MF, RO, UV/H2O2</td></tr>
-<tr><td style="text-align:left">Soquel</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>ozone, MF, RO, UV/H2O2</td></tr>
+<tr><td style="text-align:left">Soquel</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>HOCl, ozone, MF, RO, UV/H2O2, HOCl</td></tr>
 <tr><td style="text-align:left">Fountain Valley</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>MF, RO, UV/H2O2</td></tr>
 <tr><td style="text-align:left">Long Beach</td><td>CA</td><td>USA</td><td>tertiary, advanced, groundwater augmentation</td><td>MF, RO, UV/H2O2, HOCl</td></tr>
 <tr><td style="text-align:left">Pico Rivera</td><td>CA</td><td>USA</td><td>tertiary, advanced, groundwater augmentation</td><td>UF, RO, UV/HOCl</td></tr>
@@ -24,8 +24,8 @@
 <tr><td style="text-align:left">Santa Monica</td><td>CA</td><td>USA</td><td>secondary, advanced, groundwater augmentation</td><td>MBR, cartridge filtration, RO, UV/HOCl, HOCl</td></tr>
 <tr><td style="text-align:left">Phoenix</td><td>AZ</td><td>USA</td><td>advanced, groundwater augmentation</td><td>grit chamber, filtration (unspecified), MBR, RO, UV/AOP (unspecified)</td></tr>
 <tr><td style="text-align:left">Santee</td><td>CA</td><td>USA</td><td>secondary, advanced, reservoir augmentation</td><td>membrane filtration (unspecified), RO, UV/HOCl</td></tr>
-<tr><td style="text-align:left">Barcelona</td><td>Barcelona</td><td>Spain</td><td>secondary, tertiary, reservoir augmentation, advanced</td><td>HOCl, coagulation, flocculation, media filtration, split: [ozone, GAC] or [UF, RO], recombine: HOCl</td></tr>
-<tr><td style="text-align:left">Parañaque City</td><td>National Capital</td><td>Philippines</td><td>secondary, advanced, treated water augmentation</td><td>media filtration, UF, RO, HOCl</td></tr>
+<tr><td style="text-align:left">Barcelona</td><td>Barcelona</td><td>Spain</td><td>secondary, tertiary, reservoir augmentation, advanced</td><td>ClO2, coagulation, flocculation, media filtration, split: [ozone, GAC] or [UF, RO], recombine: HOCl</td></tr>
+<tr><td style="text-align:left">Paranaque</td><td>National Capital</td><td>Philippines</td><td>secondary, advanced, treated water augmentation</td><td>media filtration, UF, RO, HOCl</td></tr>
 <tr><td style="text-align:left">Ballito</td><td>KwaZulu Natal</td><td>South Africa</td><td>advanced, treated water augmentation</td><td>aeration basin, settling, HOCl, media filtration, UF, RO, HOCl, UV, HOCl</td></tr>
 <tr><td style="text-align:left">Jacksonville</td><td>FL</td><td>USA</td><td>tertiary, advanced, groundwater augmentation</td><td>membrane filtration (unspecified), RO, UV/AOP (unspecified)</td></tr>
 <tr><td style="text-align:left">Scottsdale</td><td>AZ</td><td>USA</td><td>tertiary, advanced, groundwater augmentation</td><td>ozone, UF, RO, UV</td></tr>
