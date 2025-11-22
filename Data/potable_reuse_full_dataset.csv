@@ -43,7 +43,7 @@
 42,Arapahoe County Cottonwood,Y,Englewood,Inland,CO,USA,groundwater,Y,"tertiary, riverbank filtration, groundwater augmentation, advanced",tertiary,"RO, UV/H2O2, air stripping, HOCl",None,"coagulation, MF, trickling filter",surface water discharge
 43,Pure Water Oceanside,Y,Oceanside,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"UF, RO, UV/HOCl",UF,none reported,ocean discharge
 44,City of Oxnard Advanced Water Treatment Facility,N,Oxnard,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MF, RO, UV/H2O2",MF,none reported,ocean discharge
-45,Pure Water Soquel,N,Soquel,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"HOCl, ozone, MF, RO, UV/H2O2, HOCl",MF,none reported,ocean discharge
+45,Pure Water Soquel,N,Santa Cruz,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"HOCl, ozone, MF, RO, UV/H2O2, HOCl",MF,none reported,ocean discharge
 46,Orange County Groundwater Replenishment System,Y,Fountain Valley,Coastal,CA,USA,groundwater,Y,"secondary, advanced, groundwater augmentation",secondary,"MF, RO, UV/H2O2",MF,conventional wastewater treatment,sewer discharge
 47,Los Alamitos Barrier Water Replenishment Leo J Vander Lans Water Treatment Facility Long Beach 1 and 2,Y,Long Beach,Coastal,CA,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",tertiary,"MF, RO, UV/H2O2, HOCl",MF,conventional wastewater treatment,sewer discharge
 48,Montebello Forebay County Sanitation Districts of Los Angeles County Pico Rivera 1 and 2,Y,Pico Rivera,Coastal,CA,USA,groundwater,Y,"tertiary, advanced, groundwater augmentation",tertiary,"UF, RO, UV/HOCl",UF,conventional wastewater treatment,sewer discharge
