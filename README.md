@@ -4,4 +4,4 @@ L. C. Kennedy, C. L. Madeira, M. Valenzuela, and S. E. Miller,Why we should care
 
 The executable notebook requires the installation of an R kernel for jupyter notebook. Please follow the instructions available at: https://irkernel.github.io/installation/
 
-[![DOI](https://zenodo.org/badge/1047658539.svg)](https://doi.org/10.5281/zenodo.17010009)
+[[![DOI](https://zenodo.org/badge/1047658539.svg)](https://doi.org/10.5281/zenodo.17010009)](https://doi.org/10.5281/zenodo.17957449)
